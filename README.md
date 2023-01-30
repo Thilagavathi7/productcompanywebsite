@@ -35,59 +35,52 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-home.html
-
+```
+HOME CODE:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>TCS Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
-    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+    <link rel="icon" href="./img/CCTV.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">EduSoft Private Limited.</div>
+      <div class="banner">TCS Private Limited.</div>
       <div class="menu">
         <div class="menuitemselected"><a href="/static/home.html">Home</a></div>
         <div class="menuitem"><a href="/static/products.html">Products</a></div>
-        <div class="menuitem"><a>People</a></div>
+        <div class="menuitem"><a href="/static/People.html">People</a></div>
         <div class="menuitem"><a>Contact Us</a></div>
       </div>
       <div class="content">
         <div class="homecontent">
           <h1>About Us</h1>
-          <img src="./img/building.png" alt="Building" />
+          <img src="./img/cctv.jpg" alt="Building" />
           <div class="contenttext">
             At Tally, we believe in the power of technology to make business
             owners efficient, empowered and happier, so they can focus on what
             matters most for their business. We design our products to focus on
             just that to make our products work for you, and not the other way
             around.
-            <br />
-            Our new product TallyPrime takes this to a new level, making your
-            start to automation, or your switch to Tally simpler than ever
-            before. You can now discover the product much more easily and make
-            the product do more for you, without learning anything new. There is
-            greater flexibility as the product adapts to your business and your
-            way of working. And the transformed look and feel will only make you
-            love the product even more.
+            <br/>
+            
             <ul>
-              <li>Simple to learn, easier to use</li>
-              <li>Insightful , actionable & customizable reports</li>
+              <li>can secure the area.</li>
+              <li>can solve many crimes</li>
               <li>Anywhere, anytime and secure access</li>
             </ul>
           </div>
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Obed Otto.
+        Copyright &#169; 2021 TCS Private Limited, Developed by Thamarai selvan.
       </div>
     </div>
   </body>
 </html>
-
-products.html
+PRODUCT CODE:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -99,7 +92,7 @@ products.html
 
   <body>
     <div class="container">
-      <div class="banner">EduSoft Private Limited.</div>
+      <div class="banner">TCS Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitemselected">
@@ -114,34 +107,253 @@ products.html
           <div class="productitems">
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/tally_gold.png" alt="product image">
+                  <img src="./img/CCTV2.jpg" alt="product image">
                   </div>
-                  <div class="itemname">Tally Gold</div>
-                  <div class="itemprice">Price: Rs.40,000.00 </div>
+                  <div class="itemname">EXCEL</div>
+                  <div class="itemprice">Price: Rs.600.00 </div>
               </div>
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/tally_silver.png"  alt="product image">
+                  <img src="./img/CCTV1.jpg"  alt="product image">
                   </div>
-                  <div class="itemname">Tally Silver</div>
-                  <div class="itemprice">Price: Rs.10,000.00 </div>
+                  <div class="itemname">WORD</div>
+                  <div class="itemprice">Price: Rs.1,000.00 </div>
               </div>
-          </div>
+             
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/CCTV3.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">GLIDE</div>
+                  <div class="itemprice">Price: Rs.1,200.00 </div>
+              </div>
+            
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/CCTV4.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">OUTLOOK</div>
+                  <div class="itemprice">Price: Rs.1,400.00 </div>
+              </div> 
+
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/CCTV5.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">VISIO</div>
+                  <div class="itemprice">Price: Rs.1500.00 </div>
+              </div>
+
+               <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/CCTV6.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname"> ONE DRIVE </div>
+                  <div class="itemprice">Price: Rs.1800.00 </div>
+              </div>
+              
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/CCTV7.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">YAMMER</div>
+                  <div class="itemprice">Price: Rs.2,000.00 </div>
+              </div> 
+
+               <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/CCTV8.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">SHARE POINT</div>
+                  <div class="itemprice">Price: Rs.2,000.00 </div>
+              </div> 
+               
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/CCTV9.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">POWERPOINT</div>
+                  <div class="itemprice">Price: Rs.2,500.00 </div>
+              </div>
+
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/CCTV10.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">FORMS</div>
+                  <div class="itemprice">Price: Rs.1,500.00 </div>
+              </div>
+            
+               <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/CCTV11.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">STREAM</div>
+                  <div class="itemprice">Price: Rs.2,400.00 </div>
+              </div>
+
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/CCTV12.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">ACCESS</div>
+                  <div class="itemprice">Price: Rs.2,400.00 </div>
+              </div>
+
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Obed Otto.
+        Copyright &#169; 2021 TCS Private Limited, Developed by thamarai selvan.
       </div>
     </div>
   </body>
 </html>
+PEOPLE CODE:
 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>TCS Private Limited</title>
+    <link rel="stylesheet" href="./css/layout.css" />
+    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="banner">TCS Private Limited.</div>
+      <div class="menu">
+        <div class="menuitem"><a href="/static/home.html">Home</a></div>
+        <div class="menuitemselected">
+          <a href="/static/people.html">People</a>
+        </div>
+        <div class="menuitem"><a>product</a></div>
+        <div class="menuitem"><a>Contact Us</a></div>
+      </div>
+      <div class="content">
+        <div class="productcontent">    
+          <h1>Our PEOPLES</h1>
+          <div class="productitems">
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/p1.jpg" alt="product image">
+                  </div>
+                  <div class="itemname">Mr.G.Thiru</div>
+                  <div class="itemprice">FOUNDER OF TCS</div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/p2.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">Ian goodfellow</div>
+                  <div class="itemprice">post:CEO</div>
+              </div>
+             
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/p3.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">joo-hoo ley </div>
+                  <div class="itemprice">Post:research director </div>
+              </div>
+            
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/p4.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">jeremy howard fastai</div>
+                  <div class="itemprice">Post: product designer</div>
+              </div> 
+
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/p5.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">Ruslan salakhutdinov </div>
+                  <div class="itemprice">Post: manufacturing specialist </div>
+              </div>
+
+               <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/p6.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">Steven Sasson</div>
+                  <div class="itemprice">Post: coordinator</div>
+              </div>
+              
+
+          </div>        
+      </div>
+      <div class="footer">
+        Copyright &#169; 2021 TCS Private Limited, Developed by Thamarai selvan.
+      </div>
+    </div>
+  </body>
+</html>
+CONTACT CODE:
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>TCS Private Limited</title>
+    <link rel="stylesheet" href="./css/layout.css" />
+    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="banner">TCS Private Limited.</div>
+      <div class="menu">
+        <div class="menuitem"><a href="/static/home.html">Home</a></div>
+        <div class="menuitemselected">
+          <a href="/static/contact us.html">contact us</a>
+        </div>
+        <div class="menuitem"><a>product</a></div>
+        <div class="menuitem"><a>people</a></div>
+      </div>
+      <div class="content">
+        <div class="productcontent">    
+          <h1>TO CONTACT US</h1>
+          <div class="productitems">
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/c1.jpg" alt="product image">
+                  </div>
+                  <div class="itemname">Call us: </div>
+                  <div class="itemprice">6381366409</div>
+              </div>
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/c2.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">Mail us:</div>
+                  <div class="itemprice">eyespyindia@gmail.com</div>
+              </div>
+             
+              <div class="productitem"> 
+                  <div class="itemimage">
+                  <img src="./img/c3.jpg"  alt="product image">
+                  </div>
+                  <div class="itemname">Reach us:</div>
+                  <div class="itemprice">Block-87,Gandhi nagar,Chennai-81,Tamilnadu,India.</div>
+              </div>
+             
+
+         </div>        
+      </div>
+      <div class="footer">
+        Copyright &#169; 2021 TCS Private Limited, Developed by safeeq fazil.
+      </div>
+    </div>
+  </body>
+</html>
+```
 
 ## OUTPUT:
 
-### Home Page:
+![thila prod1](https://user-images.githubusercontent.com/119407159/215475909-ac85bf0e-27e2-4aa4-8351-a5b500d5e408.jpg)
+![thila prod2](https://user-images.githubusercontent.com/119407159/215475931-c539dede-f24d-4174-a9aa-b2a3e9f8ee4e.jpg)
 
-![output](./images/homepage.jpg)
+![thila prod3](https://user-images.githubusercontent.com/119407159/215476027-7cfb655b-07d2-4a61-b248-c5b898e6421b.jpg)
 
 ## Result:
 
