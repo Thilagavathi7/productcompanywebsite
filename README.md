@@ -76,7 +76,7 @@ HOME CODE:
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 TCS Private Limited, Developed by Thamarai selvan.
+        Copyright &#169; 2021 TCS Private Limited, Developed by thilagavathi
       </div>
     </div>
   </body>
@@ -206,7 +206,7 @@ PRODUCT CODE:
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 TCS Private Limited, Developed by thamarai selvan.
+        Copyright &#169; 2021 TCS Private Limited, Developed by thilagavathi.
       </div>
     </div>
   </body>
@@ -288,7 +288,7 @@ PEOPLE CODE:
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 TCS Private Limited, Developed by Thamarai selvan.
+        Copyright &#169; 2021 TCS Private Limited, Developed by thilagavathi.
       </div>
     </div>
   </body>
@@ -346,7 +346,7 @@ CONTACT CODE:
          </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 TCS Private Limited, Developed by safeeq fazil.
+        Copyright &#169; 2021 TCS Private Limited, Developed by thilagavathi.
       </div>
     </div>
   </body>
